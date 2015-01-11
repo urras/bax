@@ -6,7 +6,7 @@ Rogier Koppejan. I mainly removed the title bar since i don't need it.
 
 ## Screenshot
 
-![screenshot L](screen.png)
+![screenshot L](screenshot.png)
 
 ## Install
 
