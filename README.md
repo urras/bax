@@ -6,7 +6,7 @@ Rogier Koppejan. I mainly removed the title bar since i don't need it.
 
 ## Screenshot
 
-<div style="text-align:center"><img src ="screenshot.png" /></div>
+![screenshot L](screen.png)
 
 ## Install
 
