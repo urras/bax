@@ -12,7 +12,7 @@ Rogier Koppejan. I mainly removed the title bar since I don't need it.
 
 ## Install
 
-Simply drop the `bax`folder inside `~/.themes`.
+Simply clone this repo into `~/.themes`.
 
 ## No Titlebar?
 
